@@ -1,0 +1,137 @@
+#body {
+    font-family: 'PT Sans', sans-serif;
+}
+#menu {
+    background-color: white;
+    
+}
+#menu ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    align-items: center;
+    
+}
+#menu ul li {
+    display: inline-block;
+    
+}
+#menu ul li img {
+    width: 80px;
+    padding-left: 0px;
+    background-color: white;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;   
+    padding: 10px 40px;
+    
+
+}
+#menu ul li a:hover {
+    background-color: yellowgreen;
+}
+#bodyOfNotice {
+    text-align: justify;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+
+}
+#menu2 ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+#menu2 ul li {
+    background-color:#cc0000;
+    padding: 15px 50px 0px;
+    color: white;
+    font-size: 40px;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#menu3 {
+    background-color:#910b0b;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#menu3 ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#menu3 ul li {
+    display: inline-block;
+    padding: 5px;
+    margin: 0px;
+    border-inline: 0px;
+    
+}
+#menu3 ul li a{
+    
+    list-style: none;
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-style: initial;
+    
+}
+#titulo1  {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    
+}
+#titulo2 {
+    font-family: 'PT Sans', sans-serif;
+   
+}
+#link1 {
+    color: black;
+    align: left
+    
+    
+    
+}
+#link2 {
+    color: black;
+    align: left
+   
+    
+}
+#link1:hover {
+    color: blue;
+}
+
+#link2:hover {
+    color: blue;
+}
+#imagen3 {
+    padding: 0px;
+    margin: 0px;
+}
+#footer ul li {
+    
+    
+}
+#footer ul li a{
+
+}
+#lifooter {
+    text-decoration: none;
+    color: black;
+    display: block;   
+   
+}
