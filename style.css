@@ -1,11 +1,11 @@
 #body {
     font-family: 'PT Sans', sans-serif;
 }
-#menu {
+#menu-principal {
     background-color: white;
     
 }
-#menu ul{
+#menu-principal ul{
     list-style: none;
     margin: 0px;
     padding: 0px;
@@ -15,17 +15,17 @@
     align-items: center;
     
 }
-#menu ul li {
+#menu-principal ul li {
     display: inline-block;
     
 }
-#menu ul li img {
+#menu-principal ul li img {
     width: 80px;
     padding-left: 0px;
     background-color: white;
 }
 
-#menu ul li a{
+#menu-principal ul li a{
     text-decoration: none;
     color: black;
     display: block;   
@@ -33,7 +33,7 @@
     
 
 }
-#menu ul li a:hover {
+#menu-principal ul li a:hover {
     background-color: yellowgreen;
 }
 #bodyOfNotice {
@@ -42,12 +42,12 @@
     font-family: 'PT Sans', sans-serif;
 
 }
-#menu2 ul {
+#lista-secundaria ul {
     margin-top: 0px;
     margin-bottom: 0px;
     padding-left: 0px;
 }
-#menu2 ul li {
+#lista-secundaria ul li {
     background-color:#cc0000;
     padding: 15px 50px 0px;
     color: white;
@@ -57,24 +57,24 @@
     margin-top: 0px;
     margin-bottom: 0px;
 }
-#menu3 {
+#lista-final {
     background-color:#910b0b;
     padding-left: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
-#menu3 ul {
+#lista-final ul {
     margin-top: 0px;
     margin-bottom: 0px;
 }
-#menu3 ul li {
+#lista-final ul li {
     display: inline-block;
     padding: 5px;
     margin: 0px;
     border-inline: 0px;
     
 }
-#menu3 ul li a{
+#lista-final ul li a{
     
     list-style: none;
     display: block;
@@ -89,33 +89,22 @@
     border-style: initial;
     
 }
-#titulo1  {
+#titulo  {
     font-family: 'PT Sans', sans-serif;
     font-size: 20px;
     
 }
-#titulo2 {
+#seccion {
     font-family: 'PT Sans', sans-serif;
    
 }
-#link1 {
+#link {
     color: black;
     align: left
-    
-    
-    
-}
-#link2 {
-    color: black;
-    align: left
-   
+  
     
 }
-#link1:hover {
-    color: blue;
-}
-
-#link2:hover {
+#link:hover {
     color: blue;
 }
 #imagen3 {
